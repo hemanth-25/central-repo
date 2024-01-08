@@ -1,0 +1,5 @@
+day 24 GIT 
+learned
+About git reset and revert
+git reset - command can send back an file which has bug inn it to its workspace 
+git revert  "--hard"- this command deletes evertyhing which is in staging area and in workspace  
